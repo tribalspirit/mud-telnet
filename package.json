@@ -1,0 +1,22 @@
+{
+  "name": "swmud",
+  "version": "1.0.0",
+  "description": "Simple MUD game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick",
+  "license": "ISC",
+  "dependencies": {
+    "lodash-node": "^3.10.1",
+    "morgan": "*",
+    "net": "*"
+  },
+  "devDependencies": {
+    "grunt": "*",
+    "jasmine": "*",
+    "karma": "*",
+    "istanbul": "*"
+  }
+}
